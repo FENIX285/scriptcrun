@@ -1,0 +1,19 @@
+etp_rt:
+  value: daa9f78c-f052-4f9a-9ad8-c1b7079a3c20
+  expires: 2021-10-01T00:07:28.000Z
+  path: /
+  domain: crunchyroll.com
+  secure: true
+c_visitor:
+  value: f98c60a1-2f5c-46d9-bf7b-d1c2f76dabaf
+  expires: 2022-03-03T21:35:38.000Z
+  path: /
+  domain: crunchyroll.com
+  secure: false
+session_id:
+  value: 8c7d749dc8754696d345541a4a936033
+  expires: 2021-09-17T01:07:55.075Z
+  path: /
+  domain: crunchyroll.com
+  secure: false
+  Max-Age: "3600"
